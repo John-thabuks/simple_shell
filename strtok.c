@@ -1,6 +1,6 @@
 #include "shell.h"
 /**
- * _strtok - Split to token of strok
+ * _strtok - Split to token of strok.
  * @line_messages: recieved to user
  * Return: the chit(s)
  */
