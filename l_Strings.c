@@ -66,7 +66,7 @@ int	_strncmp(const char *s1, const char *s2, size_t n)
  * @s2: string2
  * Return: 0 success; else pointer
  */
-int     _strcmp(const char *s1, const char *s2)
+int _strcmp(char *s1, char *s2)
 {
 		return (_strncmp(s1, s2, (size_t)-1));
 }
