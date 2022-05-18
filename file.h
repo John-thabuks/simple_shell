@@ -139,6 +139,6 @@ int _puts(char *str);
 char *f_strjoin(char const *s1, char const *s2);
 char *f_strsub(char const *s, unsigned int start, size_t len);
 void f_strdel(char **as);
-int _strcmp(const char *s1, const char *s2);
+int _strcmp(char *s1, char *s2);
 
 #endif /* __SHELL_H */
