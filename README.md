@@ -1,1 +1,1 @@
-C programming: Simple shell project
+Simple shell project
